@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:background="@drawable/background"
+    android:layout_height="match_parent">
+
+    <!-- 新增子類型選擇 -->
+
+    <Spinner
+        android:id="@+id/spinner_subtype"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp" />
+
+    <!-- 上傳格式選擇 -->
+
+    <Spinner
+        android:id="@+id/spinner_format"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/feed_formats"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/intro_text_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="請輸入簡介內容"
+        android:visibility="visible" />
+
+    <EditText
+        android:id="@+id/edit_text_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="請輸入文字內容"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/btn_select_file"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="選擇檔案"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/btn_upload"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="餵食"/>
+</LinearLayout>

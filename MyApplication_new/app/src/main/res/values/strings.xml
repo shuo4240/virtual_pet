@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PagiMon</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="feed_formats">
+        <item>文字</item>
+        <item>圖片</item>
+        <item>音檔</item>
+        <item>影片</item>
+    </string-array>
+
+    <string-array name="subtype_books">
+        <item>文學</item>
+        <item>自然</item>
+        <item>歷史</item>
+        <item>藝術</item>
+    </string-array>
+
+    <string-array name="subtype_places">
+        <item>人文景</item>
+        <item>自然景</item>
+        <item>餐廳</item>
+    </string-array>
+
+    <string-array name="subtype_recipes">
+        <item>中式</item>
+        <item>西式</item>
+        <item>東南亞</item>
+    </string-array>
+
+    <string-array name="subtype_movies">
+        <item>喜劇</item>
+        <item>悲劇</item>
+        <item>恐怖片</item>
+        <item>愛情片</item>
+    </string-array>
+    <string name="title_activity_shared_item_list">SharedItemList</string>
+</resources>
