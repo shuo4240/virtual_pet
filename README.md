@@ -10,7 +10,7 @@
 
 ### 使用工具
 前端：
-- Android Studio(Kotlin/Java)
+- Android Studio(Kotlin)
 
 後端：
 - Flask(Python)
