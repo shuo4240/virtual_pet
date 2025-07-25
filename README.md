@@ -34,3 +34,17 @@
 - Glide
 - OkHttp
 - Firebase Analytics
+
+### 實際畫面
+- 前端畫面
+![前端畫面](https://raw.githubusercontent.com/shuo4240/virtual_pet/main/images/前端.png)
+
+---
+
+- 懸浮視窗
+![懸浮視窗](https://raw.githubusercontent.com/shuo4240/virtual_pet/main/images/懸浮視窗.png)
+
+---
+
+- 分享平台
+![分享平台](https://raw.githubusercontent.com/shuo4240/virtual_pet/main/images/分享平台.png)
