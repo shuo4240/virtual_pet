@@ -42,7 +42,6 @@
 ![前端](https://github.com/shuo4240/virtual_pet/blob/main/images/%E5%89%8D%E7%AB%AF.jpg)
 
 
----
 
 - 懸浮視窗
 
