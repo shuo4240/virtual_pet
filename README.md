@@ -37,12 +37,16 @@
 
 ### 實際畫面
 - 前端畫面
-![前端畫面](https://raw.githubusercontent.com/shuo4240/virtual_pet/main/images/前端.png)](https://github.com/shuo4240/virtual_pet/blob/main/images/%E5%89%8D%E7%AB%AF.jpg)
+
+  
+![前端](https://github.com/shuo4240/virtual_pet/blob/main/images/%E5%89%8D%E7%AB%AF.jpg)
+
 
 ---
 
 - 懸浮視窗
----
+
+
 ![[懸浮視窗](https://raw.githubusercontent.com/shuo4240/virtual_pet/main/images/懸浮視窗.png)](https://github.com/shuo4240/virtual_pet/blob/main/images/%E6%87%B8%E6%B5%AE%E8%A6%96%E7%AA%97.jpg)
 
 
