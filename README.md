@@ -5,6 +5,7 @@
 ### 使用工具
 前端：
 - Android Studio(Kotlin/Java)
+
 後端：
 - Flask(Python)
 - SQLite
