@@ -47,4 +47,4 @@
 ---
 
 - 分享平台
-![分享平台](https://raw.githubusercontent.com/shuo4240/virtual_pet/main/images/分享平台.png)
+![(https://raw.githubusercontent.com/shuo4240/virtual_pet/main/images/分享平台.png)](https://github.com/shuo4240/virtual_pet/blob/main/images/%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0.jpg)
