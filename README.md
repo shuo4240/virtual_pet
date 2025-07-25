@@ -30,7 +30,7 @@
 ### 套件安裝
 - Jetpack Compose + Material3
 - AndroidX Navigation, Lifecycle, ViewModel
-- MPAndroidChart（雷達圖）
-- Glide（圖片載入）
-- OkHttp（網路傳輸）
-- Firebase Analytics（使用者分析）
+- MPAndroidChart
+- Glide
+- OkHttp
+- Firebase Analytics
